@@ -23,7 +23,7 @@
 ••Split string into list of words.  
 ••Used collections.Counter() method to return the most common words.
 ### •Wrote script containing a function to return most submitted domains.
-••Used Pandas value_counts method to count the number of occurrences of each value in the 'url' column.
+••Used Pandas value_counts() method to count the number of occurrences of each value in the 'url' column.
 ### •Wrote script containing a function to determine when most articles are submitted.
 ••Converted time column to Pandas Datetime format.  
 ••Extracted hour using Pandas dataframe.dt.hour method.  
